@@ -1,6 +1,15 @@
 # Golf Simulator Setup Guide
 
-This guide will walk you through the steps to set up the golf simulator. Please follow the steps in order to ensure everything is ready to go.
+Follow these steps in order to ensure the golf simulator is set up correctly.
+
+## Quick Setup Overview
+
+1. **Turn on the projector** (Long white remote)
+2. **Turn on the GCHawk** (White puck remote)
+3. **Wait for the projector and GCHawk to fully boot**
+4. **Turn on the computer**
+5. **Turn on the mouse and keyboard**
+6. **Launch GSPro on the computer**
 
 ---
 
@@ -20,29 +29,37 @@ This guide will walk you through the steps to set up the golf simulator. Please 
 
 ---
 
-## Step 3: Turn on the Computer
+## Step 3: Wait for Boot Completion
 
-**Power on the computer to begin the simulator setup.**  
+**Ensure the projector and GCHawk are fully booted before proceeding.**
 
 ---
 
-## Step 4: Turn on the Mouse and Keyboard
+## Step 4: Turn on the Computer
+
+**Power on the computer to begin the simulator setup.**
+
+---
+
+## Step 5: Turn on the Mouse and Keyboard
 
 **Ensure the mouse and keyboard are powered on and ready for use.**
 
 ![Mouse](https://github.com/user-attachments/assets/8d4ad458-d60c-48a9-9a6f-fc34d0bf04ce)
+
 ![Keyboard](https://github.com/user-attachments/assets/b243f0ab-effd-48fc-a15d-ef855a9d1747)
 
 ---
 
-## Step 5: Launch GSPro
+## Step 6: Launch GSPro
 
 **Launch the GSPro software on the computer.**
 
-![Screenshot 2024-12-31 105035](https://github.com/user-attachments/assets/950abace-973c-4324-90ca-d2b40824e40c)
+![GSPro](https://github.com/user-attachments/assets/950abace-973c-4324-90ca-d2b40824e40c)
 
 ---
 
 ## You’re All Set!
 
-Now you can enjoy your golf simulator. If you encounter any issues, refer back to this guide for the setup steps.
+Enjoy your golf simulator! If you encounter any issues, refer back to this guide.
+
