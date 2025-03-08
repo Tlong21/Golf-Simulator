@@ -61,5 +61,5 @@ Follow these steps in order to ensure the golf simulator is set up correctly.
 
 ## You’re All Set!
 
-Enjoy your golf simulator! If you encounter any issues, refer back to this guide.
+Enjoy your golf game! If you encounter any issues, refer back to this guide or text TL at (506) 381-7622.
 
