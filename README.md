@@ -6,44 +6,38 @@ This guide will walk you through the steps to set up the golf simulator. Please 
 
 ## Step 1: Turn on the Projector
 
-**Using the long white remote, turn on the projector.**  
-_Ensure the projector is positioned properly to cover the simulator screen._
+**Using the long white remote, turn on the projector.**
 
-![image3](https://github.com/user-attachments/assets/0a223eb3-8d1a-44b6-99eb-b04cd899c0b8)
+![Projector](https://github.com/user-attachments/assets/24614b9d-3df4-409f-bebb-f233e2a5239b)
 
 ---
 
 ## Step 2: Turn on the GCHawk
 
-**Use the white puck remote to turn on the GCHawk.**  
-_Make sure the GCHawk is connected and positioned for accurate tracking._
+**Use the white puck remote to turn on the GCHawk.**
 
-![image2](https://github.com/user-attachments/assets/0a14f306-ed1f-41ac-8f87-a3c7920b92ec)
+![GCHAWK POWER REMOTE](https://github.com/user-attachments/assets/f602e899-b620-4aa4-993c-5078c88a7af4)
 
 ---
 
 ## Step 3: Turn on the Computer
 
 **Power on the computer to begin the simulator setup.**  
-_This will allow you to run the software and connect the devices._
 
 ---
 
 ## Step 4: Turn on the Mouse and Keyboard
 
-**Ensure the mouse and keyboard are powered on and ready for use.**  
-_These will help you navigate the computer and the simulator software._
+**Ensure the mouse and keyboard are powered on and ready for use.**
 
-![image1](https://github.com/user-attachments/assets/82fea0ad-b110-44c0-bcb8-38f01212eea1)
-![image0](https://github.com/user-attachments/assets/7790af89-e0a4-45f9-8d1f-f9cfa7cc721b)
-
+![Mouse](https://github.com/user-attachments/assets/8d4ad458-d60c-48a9-9a6f-fc34d0bf04ce)
+![Keyboard](https://github.com/user-attachments/assets/b243f0ab-effd-48fc-a15d-ef855a9d1747)
 
 ---
 
 ## Step 5: Launch GSPro
 
-**Launch the GSPro software on the computer.**  
-_This will start the simulator, and you should be ready to play golf._
+**Launch the GSPro software on the computer.**
 
 ![Screenshot 2024-12-31 105035](https://github.com/user-attachments/assets/950abace-973c-4324-90ca-d2b40824e40c)
 
